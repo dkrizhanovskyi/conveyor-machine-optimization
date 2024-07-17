@@ -1,0 +1,8 @@
+com\example\MaintenancePredictor.class
+com\example\ResourceManager.class
+com\example\Main.class
+com\example\ProductionData.class
+com\example\RouteOptimizer.class
+com\example\TaskQueueManager.class
+com\example\TaskScheduler.class
+com\example\DataCollector.class
